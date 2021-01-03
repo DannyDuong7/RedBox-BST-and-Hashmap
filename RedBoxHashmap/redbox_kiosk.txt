@@ -1,0 +1,3 @@
+1st is title	2nd is number of copies available	3rd is number of copies rented
+Crab Rave The Movie		0		5
+comething stupid		10		1
